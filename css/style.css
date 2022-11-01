@@ -1,0 +1,25 @@
+#main{
+    background-color: beige;
+}
+#title{
+    text-align: center;
+    align-content: center;
+    justify-items: center;
+}
+
+#description{
+    text-align: center;
+    align-content: center;
+    justify-items: center;
+}
+#submit{
+    font-weight: 500;
+    width: 100%;
+background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
